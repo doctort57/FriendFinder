@@ -1,3 +1,55 @@
 .jumbotron {
-	background-color: rgba(41, 232, 145, 0.5);
+	background-color: #87ceeb;
 }
+.jumbotron2 {
+	background-color: #fafad2;
+}
+
+h1 {
+	color: black;
+	 text-align: center;
+}
+
+h3 {
+     color: black;
+     text-align: center;
+     font-size: 22px;
+}
+
+h4 {
+     color: black;
+     text-align: center;
+     font-size: 22px;
+}
+
+label  { 
+    color: navy;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+a {
+    color: blue;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+    /*These options are for the div to be visible in the example, the important is the first*/
+    border:1px solid black;
+    width: auto;
+    height: 50px;
+}
+
+.cmb {
+    margin-left: 450px;
+    font-weight: bold;
+}
+
+.input {
+    width: 400px;
+    margin-left: 475px;
+}
+
+
